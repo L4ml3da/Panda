@@ -1,5 +1,7 @@
 # Panda
-结合masscan进行快速web信息探测。
+1、结合masscan进行快速web信息探测。
+
+2、实时导出结果到panda.xls
 
 ## Usage 
 Usage: Panda (Web sevice scanner) Version 1.0
